@@ -3,3 +3,4 @@ disney.my.sentry.io
 *.my.sentry.io
 *.sentry.io
 device-messaging-na.amazon.com
+amplitude.com
